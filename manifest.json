@@ -1,0 +1,22 @@
+{
+  "name": "Bby Luciana",
+  "short_name": "Luciana",
+  "description": "El diario de Baby Luciana 💛",
+  "start_url": "/bbyluciana/",
+  "display": "standalone",
+  "background_color": "#FFF5E6",
+  "theme_color": "#FFF5E6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "kaboo-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "kaboo-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
