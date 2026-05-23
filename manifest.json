@@ -2,7 +2,7 @@
   "name": "Bby Luciana",
   "short_name": "Luciana",
   "description": "El diario de Baby Luciana 💛",
-  "start_url": "/bbyluciana/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#FFF5E6",
   "theme_color": "#FFF5E6",
